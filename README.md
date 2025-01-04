@@ -3,7 +3,7 @@
 사람의 패턴을 이해하여 기쁨으로 이끄는 데이터 분석가를 목표로 합니다
 
 
-## 🚀 Tech Stack
+## 🎨🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)
@@ -22,6 +22,16 @@
 | 📊 R                | 🔴 Keras           | 📊 Seaborn       | 🗄️ MySQL        |
 
 
+
+## 🐍 Python
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
+## 🐍 Tech Stack
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png) **Python**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 
 
 ## 🔍 **소개**
