@@ -6,22 +6,43 @@
 
 ## 🎨 Tech Stack
 
-- **Programming Languages**
-<div style="padding-left:20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80" style="margin:10px;"/>
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="125" style="margin:10px;"/>
-  <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" style="margin:10px;"/>
-</div>
+### Programming Languages
+<table>
+  <tr>
+    <td style="padding-left:20px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80"/>
+    </td>
+    <td>
+      <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="125"/>
+    </td>
+    <td>
+      <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50"/>
+    </td>
+  </tr>
+</table>
 
-- **Machine Learning & Deep Learning**
-<div style="padding-left:20px;">
-  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Brain Icon" width="80" style="margin:10px;"/>
-</div>
+---
 
-- **Data Visualization**
-<div style="padding-left:20px;">
-  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120" style="margin:10px;"/>
-</div>
+### Machine Learning & Deep Learning
+<table>
+  <tr>
+    <td style="padding-left:20px;">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Brain Icon" width="80"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Data Visualization
+<table>
+  <tr>
+    <td style="padding-left:20px;">
+      <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🎨 Tech Stack
