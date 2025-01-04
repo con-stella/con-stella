@@ -3,6 +3,18 @@
 사람의 패턴을 이해하여 기쁨으로 이끄는 데이터 분석가를 목표로 합니다
 
 
+## 🚀 Tech Stack
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
+- ![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)
+- SQL (Oracle SQL)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat)
+- ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white&style=flat)
+
+
+
 ## 🎨 Tech Stack
 
 - **Programming Languages**: 
