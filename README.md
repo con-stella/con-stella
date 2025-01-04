@@ -40,12 +40,13 @@
 
 
 
-### 1️⃣ [고객 이탈 예측 모델](https://github.com/username/customer-churn)
-- **목표**: 고객 이탈을 예측하여 기업의 마케팅 전략 수립 지원
-- **사용 기술**: Python, pandas, scikit-learn, Matplotlib, Seaborn
+### 1️⃣ [딥보이스 심리상담 AI](https://github.com/username/customer-churn)
+- **목표**: 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
+- **사용 기술**: OpenAI API, Coqui TTS(XTTS-v2), Python, Flask, ngrok, HTML
 - **성과**:
-  - Logistic Regression과 Random Forest를 사용하여 85%의 정확도 달성
-  - 주요 이탈 원인 분석 및 시각화
+  - 선호 목소리를 통한 라포 형성과 몰입 증진
+  - 내면아이 기법으로 깊은 치유 효과
+  - 자기 전 이불 속에서도 받을 수 있는 심리상담
 
 ### 2️⃣ [영화 리뷰 감성 분석](https://github.com/username/movie-sentiment-analysis)
 - **목표**: 영화 리뷰 데이터를 활용한 감성 분석
