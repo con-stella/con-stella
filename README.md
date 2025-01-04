@@ -13,12 +13,12 @@
 </div>
 
 - **Machine Learning & Deep Learning**
-                            <div style="padding-left:20px;">
+                                 <div style="padding-left:20px;">
   <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Brain Icon" width="50" style="margin:10px;"/>
 </div>
 
 - **Data Visualization**
-                          <div style="padding-left:20px;">
+                               <div style="padding-left:20px;">
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120" style="margin:10px;"/>
 </div>
 
