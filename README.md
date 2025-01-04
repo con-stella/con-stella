@@ -1,6 +1,8 @@
 ## 유재현 👋 
 
-📌데이터를 통해 사람의 패턴을 이해하고 📌사람들을 기쁨으로 이끄는 📌데이터 분석 전문가를 목표로 합니다
+💡 데이터를 통해 사람의 패턴을 이해하고 <br> 
+❤️ 사람들을 기쁨으로 이끄는 <br>
+🚀 데이터 분석 전문가를 목표로 합니다
 
 
 ## 🎨 Tech Stack
@@ -27,6 +29,16 @@
 
 
 ## 📂 **포트폴리오 프로젝트**
+
+### Project Name
+**Goal**: [목표/문제 정의]  
+**Data**: [데이터 출처 및 내용]  
+**Tools**: [사용한 기술 및 도구]  
+**Process**: [수행한 작업 요약]  
+**Outcome**: [결과 및 주요 성과]  
+**Link**: [GitHub Repository](https://github.com/username/project-name)
+
+
 
 ### 1️⃣ [고객 이탈 예측 모델](https://github.com/username/customer-churn)
 - **목표**: 고객 이탈을 예측하여 기업의 마케팅 전략 수립 지원
