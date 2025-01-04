@@ -8,8 +8,6 @@
 - **Programming Languages**
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80"/>
-  <img src="https://img.icons8.com/ios-filled/100/4479A1/database.png" alt="Database Icon" width="80"/>
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=databricks&logoColor=white&style=flat)
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width=100" style="margin:0 10px;"/>
   <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" style="margin:0 10px;"/>
 </div>
