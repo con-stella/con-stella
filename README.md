@@ -5,24 +5,18 @@
 
 ## 🎨 Tech Stack
 
-<div align="center">
+- **Programming Languages**: 
+  - Python ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+  - R ![R Logo](https://www.r-project.org/Rlogo.png)
 
-### 🐍 Python  
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80"/>
+- **Machine Learning & Deep Learning**: TensorFlow, Keras, PyTorch
+  - ![AI Icon](https://img.icons8.com/color/96/000000/artificial-intelligence.png)
 
-### R  
-<img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="60"/>
+- **SQL**: Text-Based (Oracle SQL)
 
-### Machine Learning & Deep Learning  
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Icon" width="80"/><br>
-_Tools: TensorFlow, Keras, PyTorch_
+- **Data Visualization**: Tableau
+  - ![Tableau Logo](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png)
 
-### SQL  
-**Text-Based**
-
-### Data Visualization  
-<img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120"/>
-</div>
 
 
 
