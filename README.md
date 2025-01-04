@@ -23,6 +23,21 @@
 </table>
 
 
+## 🚀 Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><strong>프로그래밍 언어</strong></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1200px-Oracle_logo.svg.png" alt="Oracle Logo" width="80"/><br><strong>Oracle SQL</strong></td>
+    <td align="center"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="80"/><br><strong>MySQL</strong></td>
+    <td align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80"/><br><strong>Python</strong></td>
+    <td align="center"><img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="60"/><br><strong>R</strong></td>
+  </tr>
+</table>
+
+
+
+
 ## 🎨🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
