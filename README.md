@@ -9,16 +9,16 @@
   <tr>
     <td align="center"><strong>프로그래밍 언어</strong></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1200px-Oracle_logo.svg.png" alt="Oracle Logo" width="80"/><br><strong>Oracle SQL</strong></td>
-    <td align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80"/><br></td>
+    <td align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100"/><br></td>
     <td align="center"><img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="60"/><br></td>
   </tr>
   <tr>
-    <td align="center"><strong>Machine Learning & Deep Learning</strong></td>
+    <td align="center"><strong>Machine Learning n\ & n\ Deep Learning</strong></td>
     <td colspan="3" align="center"><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Machine Learning Icon" width="50"/><br></td>
   </tr>
   <tr>
     <td align="center"><strong>데이터 시각화</strong></td>
-    <td colspan="3" align="center"><img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="80"/><br></td>
+    <td colspan="3" align="center"><img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="100"/><br></td>
   </tr>
 </table>
 
