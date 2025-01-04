@@ -7,9 +7,9 @@
 
 - **Programming Languages**
 <div align="left">
-  <span style="font-size:24px; font-weight:bold;">SQL</span>  
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80" style="margin:0 10px;"/>
-  <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="60" style="margin:0 10px;"/>
+  <span style="font-size:40px; font-weight:bold;">SQL</span>  
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width=100" style="margin:0 10px;"/>
+  <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" style="margin:0 10px;"/>
 </div>
 
 - **Machine Learning & Deep Learning**
@@ -19,7 +19,7 @@
 
 - **Data Visualization**
 <div align="left">
-  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120"/>
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="150"/>
 </div>
 
 
