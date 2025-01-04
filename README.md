@@ -5,25 +5,21 @@
 
 ## 🎨 Tech Stack
 
-### Programming Languages
+Programming Languages
 <div align="center">
   <span style="font-size:18px; font-weight:bold;">SQL</span>  
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80" style="margin:0 10px;"/>
   <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="60" style="margin:0 10px;"/>
 </div>
 
----
-
-### Machine Learning & Deep Learning
+Machine Learning & Deep Learning
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Brain Icon" width="80"/>
   <br>
   <span style="font-size:16px;">TensorFlow, Keras, PyTorch</span>
 </div>
 
----
-
-### Data Visualization
+Data Visualization
 <div align="center">
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120"/>
 </div>
