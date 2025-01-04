@@ -1,6 +1,6 @@
 ## 유재현 👋 
 
-💡 데이터를 통해 사람의 패턴을 이해하고 <br> 
+💡 데이터를 통해 사람들의 패턴을 이해하고 <br> 
 ❤️ 사람들을 기쁨으로 이끄는 <br>
 🚀 데이터 분석 전문가를 목표로 합니다
 
@@ -8,7 +8,7 @@
 ## 🎨 Tech Stack
 
 - **Programming Languages**
-  <div style="padding-left:20px;">
+  <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80" style="margin:10px;"/>
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="125" style="margin:10px;"/>
   <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" style="margin:10px;"/>
