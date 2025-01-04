@@ -3,6 +3,34 @@
 사람의 패턴을 이해하여 기쁨으로 이끄는 데이터 분석가를 목표로 합니다
 
 
+
+## 🎨 Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><strong>Programming Languages</strong></td>
+    <td align="center"><strong>SQL</strong></td>
+    <td align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80"/><br><strong>Python</strong></td>
+    <td align="center"><img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="60"/><br><strong>R</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Machine Learning <br>&<br> Deep Learning</strong></td>
+    <td colspan="3" align="center">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Icon" width="80"/><br>
+      <strong>TensorFlow, Keras, PyTorch</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data Visualization</strong></td>
+    <td colspan="3" align="center">
+      <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120"/><br>
+      <strong>Tableau</strong>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🎨 Tech Stack
 
 <table>
