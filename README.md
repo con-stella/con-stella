@@ -23,6 +23,13 @@
 
 
 
+### Python Logo 크기 조정
+
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100"/>  
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200"/>  
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="300"/>
+
+
 ## 🐍 Python
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
