@@ -3,29 +3,25 @@
 사람의 패턴을 이해하여 기쁨으로 이끄는 데이터 분석가를 목표로 합니다
 
 
-
 ## 🎨 Tech Stack
 
-### Programming Languages
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="125"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50"/>
+- **Programming Languages**
+<div style="padding-left:20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80" style="margin:10px;"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="125" style="margin:10px;"/>
+  <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" style="margin:10px;"/>
 </div>
 
----
-
-### Machine Learning & Deep Learning
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Brain Icon" width="80"/>
+- **Machine Learning & Deep Learning**
+<div style="padding-left:20px;">
+  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Brain Icon" width="80" style="margin:10px;"/>
 </div>
 
----
-
-### Data Visualization
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120"/>
+- **Data Visualization**
+<div style="padding-left:20px;">
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120" style="margin:10px;"/>
 </div>
+
 
 
 
