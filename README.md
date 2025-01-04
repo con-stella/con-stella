@@ -6,7 +6,7 @@
 ## 🎨 Tech Stack
 
 - **Programming Languages**
-<div style="padding-left:20px;">
+                <div style="padding-left:20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="80" style="margin:10px;"/>
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="125" style="margin:10px;"/>
   <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" style="margin:10px;"/>
