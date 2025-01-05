@@ -126,7 +126,7 @@
 <br>
 <br>
 
-### 3️⃣ [데이터와 AI를 활용한 병원·음식점 맞춤형 추천 서비스](https://github.com/username/Custom-Recommender)
+### 3️⃣ [데이터와 AI를 활용한 병원·음식점 맞춤형 추천 서비스](https://github.com/con-stella/Custom-Recommender)
 **/ Service Development Project /**
 - **목적**
 
