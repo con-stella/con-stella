@@ -125,7 +125,7 @@
 </div>
 
 <br>
-
+<br>
 
 ### 3️⃣ [데이터와 AI를 활용한 병원·음식점 맞춤형 추천 서비스](https://github.com/username/Custom-Recommender)
 **/ Service Development Project /**
@@ -172,48 +172,47 @@
 </div>
 
 <br>
+<br>
 
-
-### 3️⃣ [코로나19 데이터 시각화](https://github.com/username/covid-visualization)
-**/ Deep Learning Project /**
+### 4️⃣ [데이터를 활용한 맞춤형 최적 영양 전략](https://github.com/con-stella/Optimal-Nutrition)
+**/ SQL Project /**
 - **목적**
 
-  - 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
+  - [국민건강통계] 데이터를 활용한 성별·연령별 최적의 영양 전략 제안
 
 - **사용 기술**
 
-  - OpenAI API / Coqui TTS(XTTS-v2) / Python / Flask / ngrok / HTML
+  - SQL / Preprocessing / Corr / Regression
 
 - **강화 역량**
 
-  - 최신 기술을 활용한 서비스 전략 기획
-  - 팀 리더로 프로젝트 총괄 운영
-  - OpenAI API의 프롬프트 엔지니어링
-  - Coqui TTS를 활용한 Text-to-Speach 구현
-  - Python, Flask, ngrok, HTML을 활용한 홈페이지 구현
+  - 데이터 조회 및 가공 쿼리문(Query) 작성
+  - 탐색적 데이터 분석을 통한 서로 다른 데이터의 연결과 활용
+  - 상관분석 및 선형 회귀 분석 수행 및 해석
+  - 데이터 기반 의사결정 지원
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="200">  
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_17.jpg" alt="Slide 17" width="200">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_01.jpg" alt="Slide 1" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_03.jpg" alt="Slide 03" width="200">  
+  <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_24.jpg" alt="Slide 24" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_31.jpg" alt="Slide 31" width="200">
 </div>
 
 <br>
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/시연%20영상%20보기-gray?style=for-the-badge" alt="Details Button">
+  <a href="https://third-zydeco-9b0.notion.site/8f24966a16d244fba453b361311fa088" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/사용%20코드%20정리-gray?style=for-the-badge" alt="Details Button">
   </a>
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
+  <a href="https://third-zydeco-9b0.notion.site/8f24966a16d244fba453b361311fa088" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=notion&logoColor=white" alt="notion Button">
   </a>
-  <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/con-stella/Optimal-Nutrition" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/상세%20내용%20확인-gray?style=for-the-badge" alt="Details Button">
   </a>
-  <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/con-stella/Optimal-Nutrition" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button">
   </a>
 </div>
