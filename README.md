@@ -61,14 +61,11 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- 상세 내용 확인 버튼 -->
-  <a href="https://github.com/your-repository/details" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/상세%20내용%20확인-blue?style=for-the-badge" alt="Details Button">
   </a>
-
-  <!-- GitHub 버튼 -->
-  <a href="https://github.com/your-repository" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button">
+  <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button">
   </a>
 </div>
 
