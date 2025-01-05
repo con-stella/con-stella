@@ -61,10 +61,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/con-stella/Counsel-AI" target="_blank">
-    <img src="https://img.shields.io/badge/세부내용확인-GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository Button">
+  <a href="https://github.com/your-repository" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository Button">
   </a>
 </div>
+
 
 
 ### 2️⃣ [영화 리뷰 감성 분석](https://github.com/username/movie-sentiment-analysis)
