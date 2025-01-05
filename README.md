@@ -50,6 +50,8 @@
   - Coqui TTS를 활용한 Text-to-Speach 구현
   - Python, Flask, ngrok, HTML을 활용한 홈페이지 구현
 
+<br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="200">  
@@ -57,16 +59,13 @@
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/시연%20영상%20보기-gray?style=for-the-badge" alt="Details Button">
   </a>
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
   </a>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/상세%20내용%20확인-gray?style=for-the-badge" alt="Details Button">
   </a>
