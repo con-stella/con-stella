@@ -76,55 +76,8 @@
   - 시계열 분석 및 데이터 대시보드 제작
   - 국가별 확산 속도 비교 및 상관관계 분석
 
----
-
-## 📜 **교육 이력**
-- **빅데이터 분석가 양성 과정 (6개월)**  
-  - 데이터 전처리, 통계 분석, 머신러닝 기본 학습
-  - 프로젝트 기반의 실습 및 팀 협업 경험
-
-- **추가 학습**: 
-  - Kaggle 및 Dacon 데이터 분석 경진대회 참여
-  - [Coursera/EdX 강의 링크(선택사항)]: 수강 과정을 공유할 수도 있음
 
 ---
 
-## 🛠 **활동 및 블로그**
-- **블로그**: 데이터 분석 관련 학습 자료 및 프로젝트 정리  
-  [🔗 My Tech Blog](https://your-blog-url.com)
-- **Kaggle 프로필**: [🔗 My Kaggle](https://www.kaggle.com/username)
-
----
-
-## ✉️ **연락처**
-- **이메일**: your-email@example.com
-- **링크드인**: [🔗 LinkedIn 프로필](https://www.linkedin.com/in/username)
-- **깃허브**: [🔗 GitHub 프로필](https://github.com/username)
-
----
-
-🙌 **방문해 주셔서 감사합니다!**  
-저의 프로젝트와 학습 과정을 통해 데이터 분석에 대한 열정을 확인하실 수 있습니다. 언제든지 질문이나 협업 제안을 주시면 환영합니다!
-
-
-
-
-
-
-
-<!--
-## Hi there 👋
-
-**con-stella/con-stella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 문의
+[![Gmail Badge](https://img.shields.io/badge/-infatuate85@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:kairess87@gmail.com) [![GitHub Badge](https://img.shields.io/badge/-con--stella-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/con-stella)](https://github.com/con-stella)
