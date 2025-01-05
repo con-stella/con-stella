@@ -41,10 +41,12 @@
 
 
 ### 1️⃣ [딥보이스 활용 심리상담 AI](https://github.com/username/customer-churn)
-/ Deep Learning Project
-- **목표**: 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
-- **사용 기술**: OpenAI API, Coqui TTS(XTTS-v2), Python, Flask, ngrok, HTML
-- **강화 역량**:
+**/ Deep Learning Project /**
+- **목표**
+  - 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
+- **사용 기술**
+  - OpenAI API, Coqui TTS(XTTS-v2), Python, Flask, ngrok, HTML
+- **강화 역량**
   - 최신 기술을 활용한 서비스 전략 기획
   - 팀 리더로 프로젝트 총괄 운영
   - OpenAI API의 프롬프트 엔지니어링
@@ -60,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/con-stella/Counsel-AI" target="_blank">
-    <img src="https://img.shields.io/badge/세부내용확인-GitHub%20Repository-blue?style=for-the-badge" alt="Repository Button">
+    <img src="https://img.shields.io/badge/세부내용확인-GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository Button">
   </a>
 </div>
 
