@@ -4,6 +4,7 @@
 ❤️ 사람들을 기쁨으로 이끄는 <br>
 🚀 데이터 분석 전문가를 목표로 합니다
 
+<br>
 
 ## 🎨 기술 스택
 **/ Tech Stack /**
@@ -25,9 +26,7 @@
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="120" style="margin:10px;"/>
 </div>
 
-
-
-
+<br>
 
 ## 📂 **프로젝트**
 **/ Project /**
