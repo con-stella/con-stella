@@ -53,8 +53,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_015.jpg" alt="Slide 15" width="200">  
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_017.jpg" alt="Slide 17" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="200">  
+  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_17.jpg" alt="Slide 17" width="200">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
 </div>
 
