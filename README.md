@@ -41,6 +41,7 @@
 
 
 ### 1️⃣ [딥보이스 활용 심리상담 AI](https://github.com/username/customer-churn)
+/ Deep L
 - **목표**: 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
 - **사용 기술**: OpenAI API, Coqui TTS(XTTS-v2), Python, Flask, ngrok, HTML
 - **강화 역량**:
@@ -49,6 +50,20 @@
   - OpenAI API의 프롬프트 엔지니어링
   - Coqui TTS를 활용한 Text-to-Speach 구현
   - Python, Flask, ngrok, HTML을 활용한 홈페이지 구현
+
+<div align="center">
+  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
+  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="200">
+  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_17.jpg" alt="Slide 17" width="200">
+  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
+</div>
+
+<div align="center">
+  <a href="https://github.com/con-stella/Counsel-AI" target="_blank">
+    <img src="https://img.shields.io/badge/세부내용확인-GitHub%20Repository-blue?style=for-the-badge" alt="Repository Button">
+  </a>
+</div>
+
 
 ### 2️⃣ [영화 리뷰 감성 분석](https://github.com/username/movie-sentiment-analysis)
 - **목표**: 영화 리뷰 데이터를 활용한 감성 분석
