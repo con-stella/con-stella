@@ -32,6 +32,8 @@
 ## 📂 **프로젝트**
 **/ Project /**
 
+<br>
+
 ### 1️⃣ [딥보이스 활용 심리상담 AI](https://github.com/con-stella/Counsel-AI)
 **/ Deep Learning Project /**
 - **목적**
@@ -76,6 +78,7 @@
   </a>
 </div>
 
+<br>
 <br>
 
 
@@ -124,46 +127,46 @@
 <br>
 
 
-### 3️⃣ [코로나19 데이터 시각화](https://github.com/username/covid-visualization)
-**/ Deep Learning Project /**
+### 3️⃣ [데이터와 AI를 활용한 병원·음식점 맞춤형 추천 서비스](https://github.com/username/Custom-Recommender)
+**/ Service Development Project /**
 - **목적**
 
-  - 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
+  - 시민 편의를 위한 기존 서비스와 차별화된 맞춤형 추천 서비스 개발
 
 - **사용 기술**
 
-  - OpenAI API / Coqui TTS(XTTS-v2) / Python / Flask / ngrok / HTML
+  - Python  /  Crawling  /  Streamlit
 
 - **강화 역량**
 
-  - 최신 기술을 활용한 서비스 전략 기획
-  - 팀 리더로 프로젝트 총괄 운영
-  - OpenAI API의 프롬프트 엔지니어링
-  - Coqui TTS를 활용한 Text-to-Speach 구현
-  - Python, Flask, ngrok, HTML을 활용한 홈페이지 구현
+  - 카카오맵의 상세 정보 크롤링
+  - 위도·경도 등 위치 데이터 전처리 
+  - 동적 가중치를 적용한 필터링 기능
+  - 규칙 기반 챗봇 개발 및 구현 
+  - Streamlit을 활용한 서비스 홈페이지 개발
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="200">  
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_17.jpg" alt="Slide 17" width="200">
-  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_01.jpg" alt="Slide 1" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_15.jpg" alt="Slide 15" width="200">  
+  <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_22.jpg" alt="Slide 22" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_26.jpg" alt="Slide 26" width="200">
 </div>
 
 <br>
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+  <a href="https://www.youtube.com/watch?v=cWeOfn5hmuQ" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/시연%20영상%20보기-gray?style=for-the-badge" alt="Details Button">
   </a>
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+  <a href="https://www.youtube.com/watch?v=cWeOfn5hmuQ" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
   </a>
-  <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/con-stella/Custom-Recommender" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/상세%20내용%20확인-gray?style=for-the-badge" alt="Details Button">
   </a>
-  <a href="https://github.com/con-stella/Counsel-AI" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/con-stella/Custom-Recommender" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button">
   </a>
 </div>
