@@ -28,7 +28,7 @@
 
 
 
-## 📂 **포트폴리오 프로젝트**
+## 📂 **프로젝트**
 
 ### Project Name
 **Goal**: [목표/문제 정의]  
@@ -41,7 +41,7 @@
 
 
 ### 1️⃣ [딥보이스 활용 심리상담 AI](https://github.com/username/customer-churn)
-/ Deep L
+/ Deep Learning Project
 - **목표**: 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
 - **사용 기술**: OpenAI API, Coqui TTS(XTTS-v2), Python, Flask, ngrok, HTML
 - **강화 역량**:
@@ -52,10 +52,10 @@
   - Python, Flask, ngrok, HTML을 활용한 홈페이지 구현
 
 <div align="center">
-  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
-  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="200">
-  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_17.jpg" alt="Slide 17" width="200">
-  <img src="Counsel-AI/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_015.jpg" alt="Slide 15" width="200">  
+  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_017.jpg" alt="Slide 17" width="200">
+  <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="200">
 </div>
 
 <div align="center">
