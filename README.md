@@ -5,7 +5,8 @@
 🚀 데이터 분석 전문가를 목표로 합니다
 
 
-## 🎨 Tech Stack
+## 🎨 기술 스택
+**/ Tech Stack /**
 
 - **Programming Languages**
   <div>
@@ -29,16 +30,7 @@
 
 
 ## 📂 **프로젝트**
-
-### Project Name
-**Goal**: [목표/문제 정의]  
-**Data**: [데이터 출처 및 내용]  
-**Tools**: [사용한 기술 및 도구]  
-**Process**: [수행한 작업 요약]  
-**Outcome**: [결과 및 주요 성과]  
-**Link**: [GitHub Repository](https://github.com/username/project-name)
-
-
+**/ Project /**
 
 ### 1️⃣ [딥보이스 활용 심리상담 AI](https://github.com/username/customer-churn)
 **/ Deep Learning Project /**
@@ -68,15 +60,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button">
   </a>
 </div>
-
-
-
-<div align="center">
-  <a href="https://github.com/your-repository" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository Button">
-  </a>
-</div>
-
 
 
 ### 2️⃣ [영화 리뷰 감성 분석](https://github.com/username/movie-sentiment-analysis)
