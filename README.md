@@ -57,6 +57,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 1" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_15.jpg" alt="Slide 15" width="205">  
+
+<br>
+
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_17.jpg" alt="Slide 17" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI_30.jpg" alt="Slide 30" width="205">
 </div>
@@ -109,7 +112,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis_01.jpg" alt="Slide 1" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis_20.jpg" alt="Slide 20" width="205">  
-  <img src="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis_25.jpg" alt="Slide 25" width="205">
+
+<br>
+
+   <img src="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis_25.jpg" alt="Slide 25" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis_30.jpg" alt="Slide 30" width="205">
 </div>
 
@@ -150,7 +156,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_01.jpg" alt="Slide 1" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_15.jpg" alt="Slide 15" width="205">  
-  <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_22.jpg" alt="Slide 22" width="205">
+
+<br>
+
+   <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_22.jpg" alt="Slide 22" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Custom-Recommender/main/Slides/CustomRecommender__Crawling_Streamlit_26.jpg" alt="Slide 26" width="205">
 </div>
 
@@ -196,7 +205,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_01.jpg" alt="Slide 1" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_03.jpg" alt="Slide 03" width="205">  
-  <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_24.jpg" alt="Slide 24" width="205">
+
+<br>
+
+   <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_24.jpg" alt="Slide 24" width="205">
   <img src="https://raw.githubusercontent.com/con-stella/Optimal-Nutrition/main/Slides/OptimalNutrition__SQL_31.jpg" alt="Slide 31" width="205">
 </div>
 
